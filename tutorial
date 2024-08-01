@@ -1,0 +1,6 @@
+
+#sh script
+
+#termux-microphone-record -d -f 0x1337.mp3 -l 3
+
+#ncat -l localhost 8080 < spy.http
